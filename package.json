@@ -1,0 +1,11 @@
+{
+  "name": "psanesocean-joarnada-backend-fevereiro-2024",
+  "version": "1.0.0",
+  "description": "Projeto com NodeJS e Expresses para a jornada backend da Sansung Ocean em fevereiro 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Sanes",
+  "license": "MIT"
+}
